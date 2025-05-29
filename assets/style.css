@@ -7,6 +7,9 @@ body {
     display:flex;
  }
 
+.cartao {
+    margin: 1rem 1rem;
+}
 
 
 
@@ -16,7 +19,6 @@ body {
 
 
 
- 
 footer{
     background-color: black;
     color: aliceblue;
