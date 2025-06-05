@@ -43,6 +43,17 @@ height: 100%;
 
 
 
+
+.cartao__conteudo__pergunta{
+    color: var(--text-color)
+}
+
+
+
+
+
+
+
 footer{
     background-color: black;
     color: aliceblue;
