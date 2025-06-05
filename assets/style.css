@@ -45,13 +45,13 @@ height: 100%;
 
 
 .cartao__conteudo__pergunta p {
-    color: var(--text-color)
-    font-weight 500;
+    color: var(--text-color);
+    font-weight: 500 ;
 }
 
 .cartao__conteudo__resposta p {
-    color: var(--card-back-color)
-    font-weight 700;
+    color: var(--card-back-color);
+    font-weight: 700;
 }
 
 
