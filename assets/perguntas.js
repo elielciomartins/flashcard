@@ -1,17 +1,17 @@
-criacartao(
-   'História'
-   'Em que ano terminou a segunda gurra mundial?'
-   '1945'
+CriaCartao(
+    'História',
+    'Em que ano terminou a segunda gurra mundial?'
+    '1945'
 
-criacartao(
+CriaCartao(
     categoria,
     pergunta,
     resposta
 )
 
 
-criacartao(
+CriaCartao(
     categoria,
     pergunta,
-    resposta
+    resposta,
 )
