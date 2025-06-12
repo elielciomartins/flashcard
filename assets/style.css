@@ -66,5 +66,5 @@ body {
 }
 
 .cartao__conteudo__resposta{
-    
+    transform: rotateY(180deg);
 }
