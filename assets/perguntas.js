@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'historia',
-    'em que ano terminou a segunda guerra mundial?',
-    '1945'
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
