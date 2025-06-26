@@ -15,3 +15,9 @@ criaCartao(
     'em que ano terminou a segunda guerra mundial?',
     '1945'
 )
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
